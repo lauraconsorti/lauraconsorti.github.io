@@ -1,0 +1,186 @@
+{
+  "projects": [
+    {
+      "file": "images/p-01.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino con percorso e vegetazione",
+      "original": "progetto_17.jpg"
+    },
+    {
+      "file": "images/p-02.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino mediterraneo con agavi e piante succulente",
+      "original": "progetto_29.jpg"
+    },
+    {
+      "file": "images/p-03.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino mediterraneo con cactus e vasi",
+      "original": "progetto_30.jpg"
+    },
+    {
+      "file": "images/p-04.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino con piscina nel paesaggio",
+      "original": "progetto_33.jpg"
+    },
+    {
+      "file": "images/p-05.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Disegno di un giardino geometrico",
+      "original": "progetto_40.jpg"
+    },
+    {
+      "file": "images/p-06.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino e architettura su un pendio",
+      "original": "progetto_41.jpg"
+    },
+    {
+      "file": "images/p-07.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Paesaggio verde con alberi",
+      "original": "progetto_47.jpg"
+    },
+    {
+      "file": "images/p-08.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino nel paesaggio collinare",
+      "original": "progetto_finale_8.jpg"
+    },
+    {
+      "file": "images/p-09.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Giardino mediterraneo con agavi e fioriture",
+      "original": "P1000814.JPG"
+    },
+    {
+      "file": "images/t-10.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza verde con pergola e zona pranzo",
+      "original": "1716982597505.jpg"
+    },
+    {
+      "file": "images/t-11.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza con vasi e graminacee",
+      "original": "piante-botti-vino.jpg"
+    },
+    {
+      "file": "images/t-12.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Giardino pensile con vegetazione xerofila",
+      "original": "progetto_16.jpg"
+    },
+    {
+      "file": "images/t-13.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza con pergola e zona pranzo",
+      "original": "1675686749101.jpg"
+    },
+    {
+      "file": "images/t-14.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza con ombrellone e arredi",
+      "original": "1716982597655.jpg"
+    },
+    {
+      "file": "images/t-15.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Planimetria di progetto per terrazza e giardino",
+      "original": "PROGETTO-EMMA giono.jpg"
+    },
+    {
+      "file": "images/t-16.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza verde con vista sulla città",
+      "original": "unnamed (7).jpg"
+    },
+    {
+      "file": "images/laura-pouf.jpg",
+      "category": "terrazze",
+      "label": "Terrazze e verde pensile",
+      "alt": "Terrazza con zona relax, divano, pouf e pergola",
+      "original": "laura-pouf.jpg"
+    },
+    {
+      "file": "images/laura-fontana.jpg",
+      "category": "parchi",
+      "label": "Parchi e giardini",
+      "alt": "Parco con piscina e vista sul paesaggio collinare",
+      "original": "laura-fontana.jpg"
+    }
+  ],
+  "publications": [
+    {
+      "file": "images/pub-01.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "articolo-1-2005.jpg"
+    },
+    {
+      "file": "images/pub-02.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "articulo diario copy.jpg"
+    },
+    {
+      "file": "images/pub-03.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "Ecodialogando-1.jpg"
+    },
+    {
+      "file": "images/pub-04.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "Ecodialogando-3p.jpg"
+    },
+    {
+      "file": "images/pub-05.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "giardino pensile copy.jpg"
+    },
+    {
+      "file": "images/pub-06.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "IMG_5310.JPG"
+    },
+    {
+      "file": "images/pub-07.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "IMG_5312.JPG"
+    },
+    {
+      "file": "images/pub-08.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "IMG_5314.JPG"
+    },
+    {
+      "file": "images/pub-09.jpg",
+      "caption": "Pubblicazioni e rassegna stampa",
+      "alt": "Pagina dalla rassegna stampa e dalle pubblicazioni di Laura Consorti",
+      "original": "planta copy.jpg"
+    }
+  ]
+}
